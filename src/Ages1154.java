@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author Mehedi Hasan Tamin
+ * @author Mehedi Hasan Tamim
  */
 public class Ages1154 {
 
